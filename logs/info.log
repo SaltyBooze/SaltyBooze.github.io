@@ -1,0 +1,58 @@
+Info: : 5765 mini-second(s) publishing element DeliveryProcess:Processo BDD[BDD\deliveryprocesses\Processo BDD_1733CE56.html]
+Info: DeliveryProcess:Processo BDD: 5766 mini seconds publishing element
+Info: DeliveryProcess:Processo BDD: 423 mini seconds publishing process specific layout data
+Info: Phase:Ilustrar: 239 mini seconds publishing element
+Info: Task:identificar_a_funcionalidade_do_sistema: 215 mini seconds publishing element
+Info: TaskDescriptor:identificar_a_funcionalidade_do_sistema: 284 mini seconds publishing element
+Info: : 1146 mini-second(s) publishing element Role:analista_de_negocios[BDD\roles\analista_de_negocios_5B790E86.html]
+Info: Role:analista_de_negocios: 1146 mini seconds publishing element
+Info: RoleDescriptor:analista_de_negocios: 213 mini seconds publishing element
+Info: Role:desenvolvedor: 57 mini seconds publishing element
+Info: RoleDescriptor:desenvolvedor: 37 mini seconds publishing element
+Info: Role:dono_do_produto: 112 mini seconds publishing element
+Info: RoleDescriptor:dono_do_produto: 11 mini seconds publishing element
+Info: Role:engenheiro_de_testes: 39 mini seconds publishing element
+Info: RoleDescriptor:engenheiro_de_testes: 8 mini seconds publishing element
+Info: Phase:Formular: 181 mini seconds publishing element
+Info: TaskDescriptor:Identificar os cenarios: 36 mini seconds publishing element
+Info: Role:analista_de_negocios: 17 mini seconds publishing element
+Info: RoleDescriptor:analista_de_negocios: 7 mini seconds publishing element
+Info: Role:desenvolvedor: 24 mini seconds publishing element
+Info: RoleDescriptor:desenvolvedor: 38 mini seconds publishing element
+Info: Phase:Implementar: 226 mini seconds publishing element
+Info: Task:codificar_os_cenarios: 5 mini seconds publishing element
+Info: TaskDescriptor:codificar_os_cenarios: 5 mini seconds publishing element
+Info: TaskDescriptor:New Task Descriptor: 47 mini seconds publishing element
+Info: RoleDescriptor:desenvolvedor: 29 mini seconds publishing element
+Info: Phase:Automatizar: 211 mini seconds publishing element
+Info: Task:testes_automatizados: 13 mini seconds publishing element
+Info: TaskDescriptor:testes_automatizados: 6 mini seconds publishing element
+Info: Task:testificar_os_cenarios: 12 mini seconds publishing element
+Info: TaskDescriptor:testificar_os_cenarios: 6 mini seconds publishing element
+Info: Role:desenvolvedor: 22 mini seconds publishing element
+Info: RoleDescriptor:desenvolvedor: 6 mini seconds publishing element
+Info: Role:engenheiro_de_testes: 131 mini seconds publishing element
+Info: RoleDescriptor:engenheiro_de_testes: 7 mini seconds publishing element
+Info: Phase:Validar: 254 mini seconds publishing element
+Info: Task:validacao_automatizada: 5 mini seconds publishing element
+Info: TaskDescriptor:validacao_automatizada: 6 mini seconds publishing element
+Info: Phase:Entrega: 196 mini seconds publishing element
+Info: Task:envio_do_projeto: 15 mini seconds publishing element
+Info: TaskDescriptor:envio_do_projeto: 7 mini seconds publishing element
+Info: Task:feedback_do_cliente: 5 mini seconds publishing element
+Info: TaskDescriptor:feedback_do_cliente: 12 mini seconds publishing element
+Info: Task:implementar_codigo_validado: 12 mini seconds publishing element
+Info: TaskDescriptor:implementar_codigo_validado: 6 mini seconds publishing element
+Info: Role:analista_de_negocios: 28 mini seconds publishing element
+Info: RoleDescriptor:analista_de_negocios: 7 mini seconds publishing element
+Info: Role:desenvolvedor: 17 mini seconds publishing element
+Info: RoleDescriptor:desenvolvedor: 7 mini seconds publishing element
+Info: Role:dono_do_produto: 24 mini seconds publishing element
+Info: RoleDescriptor:dono_do_produto: 7 mini seconds publishing element
+Info: Role:engenheiro_de_testes: 25 mini seconds publishing element
+Info: RoleDescriptor:engenheiro_de_testes: 6 mini seconds publishing element
+Info: CustomCategory:Configuration free process view: 243 mini seconds publishing element
+Info: CustomCategory:Tasks: 21 mini seconds publishing element
+Info: CustomCategory:Roles: 51 mini seconds publishing element
+Info: CustomCategory:Processes: 31 mini seconds publishing element
+Info: : Publishing time: 0 minutes 15 seconds
